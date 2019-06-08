@@ -1,12 +1,12 @@
-def using_array 
+def using_array(array, string) 
   
 end
 
-def using_unshift
+def using_unshift(array)
   
 end
 
-def using_pop
+def using_pop(array)
   
 end
 
