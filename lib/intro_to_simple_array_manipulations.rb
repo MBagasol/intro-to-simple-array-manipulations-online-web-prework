@@ -30,11 +30,11 @@ def using_insert(array, item)
   
 end
 
-def using_uniq
+def using_uniq(array)
   
 end
 
-def using_flatten
+def using_flatten(array)
   
 end
 
